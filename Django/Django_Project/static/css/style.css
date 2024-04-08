@@ -1,0 +1,17 @@
+img{
+    height:250px ;
+    width:250px ;
+    margin-top: 100px;
+    margin-left: 150px;
+    box-shadow: 5px 5px 10px 2px black;
+   border-radius: 15px;
+    
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color:rgb(59, 65, 129);
+    
+}
